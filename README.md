@@ -8,7 +8,7 @@ Usage
 ~~~~
 Usage: splunk_query.py [options] splunk_host(s)
 Run a splunk query using a python script (via the splunk SDK)
-Copyright (c) 2013 Joseph Zeranski <madsc13ntist@gmail.com>
+Copyright (c) 2013 Joseph Zeranski <madsc13ntist gmail.com>
 
 Options:
   -h, --help    show this help message and exit
